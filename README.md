@@ -1,6 +1,9 @@
-# PrimerCorteProyectoIS1
+# Avances II - Proyecto - Ingenieria Software I
 
-# Enlace al word de one drive trabajado (el historial de versiones se encuentra en la ventana de archivo): 
-https://uvggt-my.sharepoint.com/:w:/r/personal/piv23574_uvg_edu_gt/Documents/Corte%201.docx?d=w6bbd4f0b03124ae8b556fb8f3afae2a2&csf=1&web=1&e=11SYo9
+Este repositorio alberga los avances correspondientes a la metodología de Design Studio, la cual nos ha permitido generar y estructurar las ideas de manera visual; los pasos del proceso incluyen la creación de diferentes ideas, las cuales se presentaron en forma de sketches, y la selección de las más relevantes basadas en votaciones. Además, se han identificado diversas historias de usuario que guiarán el desarrollo del producto final.
 
-# Se incluye el informe en .pdf y los documentos personales de trabajo de cada uno
+## Documentación - Historial Versiones
+
+El historial de versiones del documento adjunto se encuentra en el siguiente enlace:
+
+https://uvggt-my.sharepoint.com/:w:/g/personal/piv23574_uvg_edu_gt/EUyEgi-6qHVJo7SIiwa1Q-IB-sM9ZEwdIdR-HRnEo8d1XQ?e=aDhHNu

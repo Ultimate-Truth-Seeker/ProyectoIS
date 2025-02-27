@@ -1,6 +1,8 @@
-# Avances II - Proyecto - Ingenieria Software I
+# Corte II - Proyecto - Ingenieria Software I
 
-Este repositorio alberga los avances correspondientes a la metodología de Design Studio, la cual nos ha permitido generar y estructurar las ideas de manera visual; los pasos del proceso incluyen la creación de diferentes ideas, las cuales se presentaron en forma de sketches, y la selección de las más relevantes basadas en votaciones. Además, se han identificado diversas historias de usuario que guiarán el desarrollo del producto final.
+Este repositorio alberga los avances correspondientes a la metodología de Design Studio, la cual nos ha permitido generar y estructurar las ideas de manera visual. A través de sketches iniciales y un proceso de votación, seleccionamos las ideas más relevantes para el desarrollo del producto. Además, se definieron historias de usuario clave, que nos ayudaron a estructurar el flujo de interacción y funcionalidades esenciales.
+
+Como parte del proceso de documentación y diseño, se han desarrollado prototipos para visualizar la interfaz y funcionalidad esperada, así como la identificación de actores involucrados en el sistema. También se ha elaborado un diagrama de casos de uso, que representa gráficamente las interacciones entre los actores y las funciones principales del sistema. A su vez, el mapa de historias de usuario organiza y prioriza el desarrollo de las funcionalidades con base en su impacto y dependencia. Finalmente, se han establecido los requisitos no funcionales, los cuales garantizan aspectos de calidad, seguridad, rendimiento y usabilidad del sistema.
 
 ## Documentación - Historial Versiones
 
